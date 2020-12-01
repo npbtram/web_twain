@@ -1,0 +1,21 @@
+https://devclic.cir2.com:8081/CLIC/Modskwad.aspx?ReturnUrl=%2fCLIC%2fSessionTimeOut2h.aspx
+https://testclic.cir2.com:8081/CLIC/Modskwad.aspx?ReturnUrl=%2fCLIC%2fSessionTimeOut2h.aspx 
+https://intgclic.cir2.com:8081/CLIC/Modskwad.aspx?ReturnUrl=%2fCLIC%2fSessionTimeOut2h.aspx 
+https://test.cir2.com/content/dam/cir2/documents/caap/private%20documents/CLIC_Service_Request_Center-Users_Guide.pdf
+
+https://devclic.cir2.com:8076/default.aspx
+
+https://testclic.cir2.com:8076/login.aspx
+
+utkRvzEAHe3T6rYuTGEDUdjV;03DD1933vk
+
+
+30a6b346-1bfe-40da-89be-6a5949ed46d0
+79eee6f9-2c57-4641-a310-a2c84025eaf6
+
+b5d3dc54-cbd2-4cc3-8edb-ac530093ce88
+b5d3dc54-cbd2-4cc3-8edb-ac530093ce88
+
+https://www.dynamsoft.com/web-twain/docs/getstarted/hardware.html#is-my-scanner-twain-compliant
+https://www.whatismybrowser.com/detect/what-is-my-user-agent
+group policy/Administrative templates/windows Components/internet explorer/security features/Add-on management

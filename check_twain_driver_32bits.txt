@@ -1,0 +1,2 @@
+C:\Windows\twain_32
+https://www.whatismybrowser.com/detect/what-is-my-user-agent
